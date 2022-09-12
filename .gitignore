@@ -1,0 +1,4 @@
+mysql-config.json
+db.png
+# Project exclude paths
+/node_modules/
